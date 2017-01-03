@@ -1,27 +1,8 @@
 # 幾撚時先放假？
-<!DOCTYPE html>
+
 <html>
 
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>幾撚時先放假？</title>
-    <style>
-	body{
-		background-color: #EFEFEF;
-	}
-	table td{
-		white-space:nowrap;
-		width: 1%;
-	}
-	table tr.heading td{
-		border-bottom:1px solid black;	
-	}
-	#y{width:40px}#m{width:20px}#d{width:20px}#h{width:20px}
-	img{height:130px; width:auto}
-	</style>
-</head>
-
-<body>
+<body style="background-color: #EFEFEF;">
 <!--<table style="width:200px">
 <tr>
 <td><img src="http://i183.photobucket.com/albums/x34/ccjpopkpop/zard/G049.jpg"></td>
